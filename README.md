@@ -20,3 +20,6 @@ Required libraries:
 * https://www.elegoo.com/download/ - Download Arduino IDE 
 * [Docs and Examples](https://www.elegoo.com/tutorial/Elegoo%20The%20Most%20Complete%20Starter%20Kit%20for%20MEGA%20V1.0.2019.01.29.zip)
 
+## Example ##
+
+![picture alt](Arduino-Sensor-Display.jpg "Example photo")
